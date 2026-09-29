@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Harshit Saini
 
 🎓 Electronics & Communication Engineering (AIML) Undergraduate  
-📍 Greater Noida, New Delhi, India  
+📍 New Delhi, India  
 💻 Building practical projects and exploring technology through hands-on development
 
 ---
